@@ -30,7 +30,7 @@ uv run fastapi dev
 
 ---
 
-## 🌐 Frontend (Next.js / React)
+## 🌐 Frontend (React)
 
 ### **1. Install npm packages**
 
