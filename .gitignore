@@ -1,0 +1,102 @@
+############################
+# Python
+############################
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.log
+*.tmp
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+.env
+.env.*
+!.env.example
+
+# PyInstaller
+*.spec
+
+# Jupyter
+.ipynb_checkpoints
+
+############################
+# Node / Vite / React
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# Vite
+.vite/
+vite.config.local.*
+temp/
+tmp/
+
+# Production build
+dist/
+build/
+
+# Local dev server logs
+*.local
+
+############################
+# OS Files
+############################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+############################
+# IDEs / Editors
+############################
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# JetBrains / PyCharm / WebStorm
+.idea/
+*.iml
+out/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+############################
+# Misc
+############################
+*.bak
+*.tmp
+*.temp
+logs/
+cache/
