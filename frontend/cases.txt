@@ -1,0 +1,58 @@
+
+TEST CASE 1 [IDEALISTIC] -> dynamic gen off
+
+MAIN TOPIC:
+"Introduction to Microservices Architecture",
+
+SECTIONS 
+
+"Overview of Microservices"
+"Explain what microservices are, including the definition and the rationale behind breaking monolithic systems into smaller components."
+
+"Benefits of Microservices"
+"Describe advantages such as scalability, independent deployment, and team autonomy."
+
+"Challenges of Microservices",
+"Discuss the difficulties teams face, including distributed complexity, monitoring, and operational overhead."
+
+"Best Practices",
+"Provide actionable recommendations for building and maintaining microservice-based systems."
+
+CONSTRAINTS
+"Tone: professional but friendly. Length: 120–180 words per section. Style: explanatory, clear, and beginner-friendly. Do not use overly technical jargon unless necessary.",
+
+CONTEXT
+"Assume the reader is a junior software developer learning microservices for the first time.",
+
+
+#####################################################------------------------------------------------------#################################################################
+ 
+
+TEST CASE 2 [REAL WORLD] -> dynamic gen on
+
+MAIN TOPIC:
+"Something about climate change impacts"
+
+SECTIONS 
+
+"effects on weather??"
+"write like how weather gets messed up because of climate change. Maybe include storms and floods? also maybe put pollution (not sure if thats related but just add it somewhere)"
+
+"Intro"
+"just talk about climate change a bit ig, i want it like not too long bc its boring but my professor said it should be kind of detailed so idk"
+
+"idk maybe solutions"
+"Discuss the difficulties teams face, including distributed complexity, monitoring, and operational overhead."
+
+"Best Practices"
+"just mention what we can do to stop it but dont go too deep i think. professor said make it practical and also academic?? confusing"
+
+CONSTRAINTS
+"This is for my college assignment and i need like a clean structure but i dont know the structure. maybe 600-800 words total??? i hate reading big paragraphs so dont make it too blocky. don't make it sound like a wikipedia page. also try to make it pretty chill"
+
+CONTEXT
+"I have literally no idea how climate change works so assume im a beginner. This assignment is due tomorrow so please make it look like i know what im talking about a bit. You can also add sections if needed because i dont know what all should be included."
+
+
+
+ 
