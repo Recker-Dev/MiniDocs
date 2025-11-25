@@ -1,47 +1,47 @@
 export const initialData = {
-  // main_topic: "",
-  // dynamic_generation: true,
-  // sections: [{ id: "placeholder", section_name: "", description: "" }],
-  // constraints: "",
-  // context: "",
-  // generated_content: [],
-  // eval_hist_payload: [],
-  main_topic: "Introduction to Microservices Architecture",
-  dynamic_generation: "true",
-  sections: [
-    {
-      id: 1,
-      section_name: "Overview of Microservices",
-      description:
-        "Explain what microservices are, including the definition and the rationale behind breaking monolithic systems into smaller components.",
-    },
-    {
-      id: 2,
-      section_name: "Benefits of Microservices",
-      description:
-        "Describe advantages such as scalability, independent deployment, and team autonomy.",
-    },
-    {
-      id: 3,
-      section_name: "Challenges of Microservices",
-      description:
-        "Discuss the difficulties teams face, including distributed complexity, monitoring, and operational overhead.",
-    },
-    {
-      id: 4,
-      section_name: "Best Practices",
-      description:
-        "Provide actionable recommendations for building and maintaining microservice-based systems.",
-    },
-  ],
-
-  constraints:
-    "Tone: professional but friendly. Length: 120–180 words per section. Style: explanatory, clear, and beginner-friendly. Do not use overly technical jargon unless necessary.",
-
-  context:
-    "Assume the reader is a junior software developer learning microservices for the first time.",
+  main_topic: "",
+  dynamic_generation: true,
+  sections: [{ id: "placeholder", section_name: "", description: "" }],
+  constraints: "",
+  context: "",
   generated_content: [],
   eval_hist_payload: [],
+  // main_topic: "Introduction to Microservices Architecture",
+  // dynamic_generation: "true",
+  // sections: [
+  //   {
+  //     id: 1,
+  //     section_name: "Overview of Microservices",
+  //     description:
+  //       "Explain what microservices are, including the definition and the rationale behind breaking monolithic systems into smaller components.",
+  //   },
+  //   {
+  //     id: 2,
+  //     section_name: "Benefits of Microservices",
+  //     description:
+  //       "Describe advantages such as scalability, independent deployment, and team autonomy.",
+  //   },
+  //   {
+  //     id: 3,
+  //     section_name: "Challenges of Microservices",
+  //     description:
+  //       "Discuss the difficulties teams face, including distributed complexity, monitoring, and operational overhead.",
+  //   },
+  //   {
+  //     id: 4,
+  //     section_name: "Best Practices",
+  //     description:
+  //       "Provide actionable recommendations for building and maintaining microservice-based systems.",
+  //   },
+  // ],
+
+  // constraints:
+  //   "Tone: professional but friendly. Length: 120–180 words per section. Style: explanatory, clear, and beginner-friendly. Do not use overly technical jargon unless necessary.",
+
+  // context:
+  //   "Assume the reader is a junior software developer learning microservices for the first time.",
+  // generated_content: [],
+  // eval_hist_payload: [],
 
   // main_topic: "Something about climate change impacts",
   // dynamic_generation: true,
