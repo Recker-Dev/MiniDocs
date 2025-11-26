@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# Node / frontend accidentally included?
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# uv build artifacts
+cache/
